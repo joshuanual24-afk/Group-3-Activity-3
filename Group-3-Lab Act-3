@@ -1,0 +1,28 @@
+# My First Simple Script
+print("Welcome to Python Programming")
+
+# Part 1: Simple print script with fullname, course, year and section
+print("Hello, I'm Joshua Nual BSIT 10")
+
+# Part 2: Python Variables
+number_var = 20
+name_var = "Joshua"
+print("Number variable:", number_var)
+print("Name variable:", name_var)
+
+# Part 3: Python Variable Names
+Nicole = "Group Member 1"
+Francine = "Group Member 2"
+Joshua = "Group Member 3"
+Cristel = "Group Member 4"
+Cyra = "Group Member 5"
+
+print("\nVariable Names:", Nicole, Francine, Joshua, Cristel, Cyra)
+
+# Part 4: Many Values to Multiple Variables
+subj1, subj2, subj3 = "Science", "Programming", "HTML"
+print("Multiple values to variables:", subj1, subj2, subj3)
+
+# Part 5: One Value to Multiple Variables
+semester = term = period = "Second Semester"
+print("Same value to variables:", semester, term, period)
