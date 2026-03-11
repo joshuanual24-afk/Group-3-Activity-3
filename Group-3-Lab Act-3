@@ -16,8 +16,9 @@ Francine = "Group Member 2"
 Joshua = "Group Member 3"
 Cristel = "Group Member 4"
 Cyra = "Group Member 5"
+Rhianne = "Group Member 6"
 
-print("\nVariable Names:", Nicole, Francine, Joshua, Cristel, Cyra)
+print("\nVariable Names:", Nicole, Francine, Joshua, Cristel, Cyra, Rhianne)
 
 # Part 4: Many Values to Multiple Variables
 subj1, subj2, subj3 = "Science", "Programming", "HTML"
